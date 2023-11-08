@@ -1,8 +1,8 @@
 package com.java.javapolymorphism.finaldemo.finalvar;
 
-public class Test extends Demo{
+public class Test extends FinalVarDemo {
     void run(){
-        //i = 20;
-        System.out.println(i);
+        //I = 20;
+        System.out.println(I);
     }
 }

@@ -6,6 +6,16 @@ public class Student {
     private String usn;
     private String section;
     private long moblienumber;
+
+    public Student(String name, String lastname, String usn, String section, long moblienumber, String emailid) {
+        this.name = name;
+        this.lastname = lastname;
+        this.usn = usn;
+        this.section = section;
+        this.moblienumber = moblienumber;
+        this.emailid = emailid;
+    }
+
     private String emailid;
 
     public String getName() {

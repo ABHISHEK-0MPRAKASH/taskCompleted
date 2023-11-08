@@ -1,3 +1,4 @@
 package com.java.javapolymorphism.finaldemo.finalclass;
 
-//public class Test extends FINALCLASSDEMO{ }
+final public class FINALCLASSDEMO {
+}
