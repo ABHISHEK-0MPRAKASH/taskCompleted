@@ -1,4 +1,6 @@
-package com.java.collections.comparable;
+package com.java.collections.comparatorscomparables.comparables;
+
+import com.java.collections.comparatorscomparables.comparables.Employee;
 
 import java.util.ArrayList;
 

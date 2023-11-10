@@ -1,4 +1,4 @@
-package com.java.collections.comparable;
+package com.java.collections.comparatorscomparables.comparables;
 
 public class Employee implements Comparable<Employee> {
     String name;

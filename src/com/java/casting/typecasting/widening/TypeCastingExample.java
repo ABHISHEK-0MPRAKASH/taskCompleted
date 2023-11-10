@@ -1,4 +1,4 @@
-package com.java.typecasting.widening;
+package com.java.casting.typecasting.widening;
 
 public class TypeCastingExample{
     public static void main(String[] args) {

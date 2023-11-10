@@ -1,4 +1,4 @@
-package com.java.typecasting.narrowing;
+package com.java.casting.typecasting.narrowing;
 
 public class NarrowingDemo {
     public static void main(String[] args) {
